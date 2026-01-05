@@ -1,7 +1,7 @@
 # natural_or_fake
 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-# Título do Projeto Extremamente Aesthetic ;)
+# OnePiece Card Games - Como Jogar. 
 
 ## 📒 Descrição
 Esse projeto busca auxiliar os jogadores do Card Game de One Piece a entenderem as regras básicas e iniciantes do jogo e começar a jogar com facilidade.

@@ -4,7 +4,7 @@ Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 # OnePiece Card Games - Como Jogar. 
 
 ## 📒 Descrição
-Esse projeto busca auxiliar os jogadores do Card Game de One Piece a entenderem as regras básicas e iniciantes do jogo e começar a jogar com facilidade.
+Esse projeto busca auxiliar os jogadores do Card Game de One Piece a entenderem as regras básicas e auxiliar aos iniciantes do jogo a montagem de decks e como começar a jogar.
 
 ## 🤖 Tecnologias Utilizadas
 # Gemini IA
